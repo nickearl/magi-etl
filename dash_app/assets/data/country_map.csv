@@ -1,0 +1,251 @@
+Alpha-2 code,Alpha-3 code,Numeric,continent code,Company Country,Company Sales Region,ISO Country,GA Country,GAM Country,GPR Country,Amplitude Country,Company Subcontinent
+AF,AFG,4,AS,Afghanistan,EMEA,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Afghanistan,Southern Asia
+AL,ALB,8,EU,Albania,EMEA,Albania,Albania,Albania,Albania,Albania,Southern Europe
+DZ,DZA,12,AF,Algeria,EMEA,Algeria,Algeria,Algeria,Algeria,Algeria,Northern Africa
+AS,ASM,16,OC,American Samoa,APAC,American Samoa,American Samoa,American Samoa,American Samoa,American Samoa,Polynesia
+AD,AND,20,EU,Andorra,EMEA,Andorra,Andorra,Andorra,Andorra,Andorra,Southern Europe
+AO,AGO,24,AF,Angola,EMEA,Angola,Angola,Angola,Angola,Angola,Middle Africa
+AI,AIA,660,NA,Anguilla,LATAM,Anguilla,Anguilla,Anguilla,Anguilla,Anguilla,Caribbean
+AQ,ATA,10,AN,Antarctica,APAC,Antarctica,Antarctica,Antarctica,Antarctica,Antarctica,Outlying Oceania
+AG,ATG,28,NA,Antigua & Barbuda,LATAM,Antigua and Barbuda,Antigua & Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Caribbean
+AR,ARG,32,SA,Argentina,LATAM,Argentina,Argentina,Argentina,Argentina,Argentina,South America
+AM,ARM,51,AS,Armenia,EMEA,Armenia,Armenia,Armenia,Armenia,Armenia,Western Asia
+AW,ABW,533,NA,Aruba,LATAM,Aruba,Aruba,Aruba,Aruba,Aruba,Caribbean
+AU,AUS,36,OC,Australia,APAC,Australia,Australia,Australia,Australia,Australia,Australasia
+AT,AUT,40,EU,Austria,EMEA,Austria,Austria,Austria,Austria,Austria,Western Europe
+AZ,AZE,31,AS,Azerbaijan,EMEA,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Azerbaijan,Western Asia
+BS,BHS,44,NA,Bahamas,LATAM,Bahamas (the),Bahamas,The Bahamas,The Bahamas,Bahamas,Caribbean
+BH,BHR,48,AS,Bahrain,EMEA,Bahrain,Bahrain,Bahrain,Bahrain,Bahrain,Western Asia
+BD,BGD,50,AS,Bangladesh,APAC,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Bangladesh,Southern Asia
+BB,BRB,52,NA,Barbados,LATAM,Barbados,Barbados,Barbados,Barbados,Barbados,Caribbean
+BY,BLR,112,EU,Belarus,EMEA,Belarus,Belarus,Belarus,Belarus,Belarus,Eastern Europe
+BE,BEL,56,EU,Belgium,EMEA,Belgium,Belgium,Belgium,Belgium,Belgium,Western Europe
+BZ,BLZ,84,NA,Belize,LATAM,Belize,Belize,Belize,Belize,Belize,Central America
+BJ,BEN,204,AF,Benin,EMEA,Benin,Benin,Benin,Benin,Benin,Western Africa
+BM,BMU,60,NA,Bermuda,LATAM,Bermuda,Bermuda,Bermuda,Bermuda,Bermuda,Northern America
+BT,BTN,64,AS,Bhutan,APAC,Bhutan,Bhutan,Bhutan,Bhutan,Bhutan,Southern Asia
+BO,BOL,68,SA,Bolivia,LATAM,Bolivia (Plurinational State of),Bolivia,Bolivia,Bolivia,Bolivia,South America
+BQ,BES,535,NA,Caribbean Netherlands,LATAM,"Bonaire, Sint Eustatius and Saba",Caribbean Netherlands,Caribbean Netherlands,Caribbean Netherlands,Caribbean Netherlands,Caribbean
+BA,BIH,70,EU,Bosnia & Herzegovina,EMEA,Bosnia and Herzegovina,Bosnia & Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Southern Europe
+BW,BWA,72,AF,Botswana,EMEA,Botswana,Botswana,Botswana,Botswana,Botswana,Southern Africa
+BV,BVT,74,AN,Bouvet Island,,Bouvet Island,,,,,
+BR,BRA,76,SA,Brazil,LATAM,Brazil,Brazil,Brazil,Brazil,Brazil,South America
+IO,IOT,86,AF,British Indian Ocean Territory,APAC,British Indian Ocean Territory (the),British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,Eastern Africa
+BN,BRN,96,AS,Brunei,APAC,Brunei Darussalam,Brunei,Brunei,Brunei,Brunei,Southeast Asia
+BG,BGR,100,EU,Bulgaria,EMEA,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Bulgaria,Eastern Europe
+BF,BFA,854,AF,Burkina Faso,EMEA,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Western Africa
+BI,BDI,108,AF,Burundi,EMEA,Burundi,Burundi,Burundi,Burundi,Burundi,Eastern Africa
+CV,CPV,132,AF,Cape Verde,EMEA,Cabo Verde,Cape Verde,Cape Verde,Cape Verde,Cape Verde,Western Africa
+KH,KHM,116,AS,Cambodia,APAC,Cambodia,Cambodia,Cambodia,Cambodia,Cambodia,Southeast Asia
+CM,CMR,120,AF,Cameroon,EMEA,Cameroon,Cameroon,Cameroon,Cameroon,Cameroon,Middle Africa
+CA,CAN,124,NA,Canada,NA,Canada,Canada,Canada,Canada,Canada,Northern America
+KY,CYM,136,NA,Cayman Islands,LATAM,Cayman Islands (the),Cayman Islands,Cayman Islands,Cayman Islands,Cayman Islands,Caribbean
+CF,CAF,140,AF,Central African Republic,EMEA,Central African Republic (the),Central African Republic,Central African Republic,Central African Republic,Central African Republic,Middle Africa
+TD,TCD,148,AF,Chad,EMEA,Chad,Chad,Chad,Chad,Chad,Middle Africa
+CL,CHL,152,SA,Chile,LATAM,Chile,Chile,Chile,Chile,Chile,South America
+CN,CHN,156,AS,China,APAC,China,China,China,China,China,Eastern Asia
+CX,CXR,162,AS,Christmas Island,APAC,Christmas Island,Christmas Island,Christmas Island,Christmas Island,Christmas Island,Australasia
+CC,CCK,166,AS,Cocos (Keeling) Islands,APAC,Cocos (Keeling) Islands (the),Cocos (Keeling) Islands,Cocos (Keeling) Islands,Cocos (Keeling) Islands,Cocos (Keeling) Islands,Australasia
+CO,COL,170,SA,Colombia,LATAM,Colombia,Colombia,Colombia,Colombia,Colombia,South America
+KM,COM,174,AF,Comoros,EMEA,Comoros (the),Comoros,Comoros,Comoros,Comoros,Eastern Africa
+CD,COD,180,AF,Democratic Republic of the Congo,EMEA,Congo (the Democratic Republic of the),Congo - Kinshasa,Democratic Republic of the Congo,Democratic Republic of the Congo,Congo (DRC),Middle Africa
+CG,COG,178,AF,Congo - Brazzaville,,Congo (the),Congo - Brazzaville,,Republic of the Congo,Congo,Middle Africa
+CK,COK,184,OC,Cook Islands,APAC,Cook Islands (the),Cook Islands,Cook Islands,Cook Islands,Cook Islands,Polynesia
+CR,CRI,188,NA,Costa Rica,LATAM,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Central America
+HR,HRV,191,EU,Croatia,EMEA,Croatia,Croatia,Croatia,Croatia,Croatia,Southern Europe
+CU,CUB,192,NA,Cuba,,Cuba,Cuba,,Cuba,Cuba,Caribbean
+CW,CUW,531,NA,Curaçao,EMEA,Curaçao,Curaçao,Curacao,Curacao,Curaçao,Caribbean
+CY,CYP,196,AS,Cyprus,EMEA,Cyprus,Cyprus,Cyprus,Cyprus,Cyprus,Western Asia
+CZ,CZE,203,EU,Czechia,EMEA,Czechia,Czechia,Czechia,Czechia,Czech Republic,Eastern Europe
+CI,CIV,384,AF,Côte d’Ivoire,EMEA,Côte d'Ivoire,Côte d’Ivoire,Cote d'Ivoire,Cote d'Ivoire,Ivory Coast,Western Africa
+DK,DNK,208,EU,Denmark,EMEA,Denmark,Denmark,Denmark,Denmark,Denmark,Northern Europe
+DJ,DJI,262,AF,Djibouti,EMEA,Djibouti,Djibouti,Djibouti,Djibouti,Djibouti,Eastern Africa
+DM,DMA,212,NA,Dominica,LATAM,Dominica,Dominica,Dominica,Dominica,Dominica,Caribbean
+DO,DOM,214,NA,Dominican Republic,LATAM,Dominican Republic (the),Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,Caribbean
+EC,ECU,218,SA,Ecuador,LATAM,Ecuador,Ecuador,Ecuador,Ecuador,Ecuador,South America
+EG,EGY,818,AF,Egypt,EMEA,Egypt,Egypt,Egypt,Egypt,Egypt,Northern Africa
+SV,SLV,222,NA,El Salvador,LATAM,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,Central America
+GQ,GNQ,226,AF,Equatorial Guinea,EMEA,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,Middle Africa
+ER,ERI,232,AF,Eritrea,EMEA,Eritrea,Eritrea,Eritrea,Eritrea,Eritrea,Eastern Africa
+EE,EST,233,EU,Estonia,EMEA,Estonia,Estonia,Estonia,Estonia,Estonia,Northern Europe
+SZ,SWZ,748,AF,Eswatini,,Eswatini,Eswatini,,Swaziland,Swaziland,Southern Africa
+ET,ETH,231,AF,Ethiopia,EMEA,Ethiopia,Ethiopia,Ethiopia,Ethiopia,Ethiopia,Eastern Africa
+FK,FLK,238,SA,Falkland Islands (Islas Malvinas),LATAM,Falkland Islands (the) [Malvinas],Falkland Islands (Islas Malvinas),Falkland Islands (Islas Malvinas),Falkland Islands (Islas Malvinas),Falkland Islands,South America
+FO,FRO,234,EU,Faroe Islands,EMEA,Faroe Islands (the),Faroe Islands,Faroe Islands,Faroe Islands,Faroe Islands,Northern Europe
+FJ,FJI,242,OC,Fiji,APAC,Fiji,Fiji,Fiji,Fiji,Fiji,Melanesia
+FI,FIN,246,EU,Finland,EMEA,Finland,Finland,Finland,Finland,Finland,Northern Europe
+FR,FRA,250,EU,France,EMEA,France,France,France,France,France,Western Europe
+GF,GUF,254,SA,French Guiana,EMEA,French Guiana,French Guiana,French Guiana,French Guiana,French Guiana,South America
+PF,PYF,258,OC,French Polynesia,APAC,French Polynesia,French Polynesia,French Polynesia,French Polynesia,French Polynesia,Polynesia
+TF,ATF,260,AF,French Southern Territories,,French Southern Territories (the),French Southern Territories,,French Southern Territories,French Southern Territories,Eastern Africa
+GA,GAB,266,AF,Gabon,EMEA,Gabon,Gabon,Gabon,Gabon,Gabon,Middle Africa
+GM,GMB,270,AF,Gambia,EMEA,Gambia (the),Gambia,The Gambia,The Gambia,Gambia,Western Africa
+GE,GEO,268,AS,Georgia,EMEA,Georgia,Georgia,Georgia,Georgia,Georgia,Western Asia
+DE,DEU,276,EU,Germany,EMEA,Germany,Germany,Germany,Germany,Germany,Western Europe
+GH,GHA,288,AF,Ghana,EMEA,Ghana,Ghana,Ghana,Ghana,Ghana,Western Africa
+GI,GIB,292,EU,Gibraltar,EMEA,Gibraltar,Gibraltar,Gibraltar,Gibraltar,Gibraltar,Southern Europe
+GR,GRC,300,EU,Greece,EMEA,Greece,Greece,Greece,Greece,Greece,Southern Europe
+GL,GRL,304,NA,Greenland,EMEA,Greenland,Greenland,Greenland,Greenland,Greenland,Northern America
+GD,GRD,308,NA,Grenada,LATAM,Grenada,Grenada,Grenada,Grenada,Grenada,Caribbean
+GP,GLP,312,NA,Guadeloupe,EMEA,Guadeloupe,Guadeloupe,Guadeloupe,Guadeloupe,Guadeloupe,Caribbean
+GU,GUM,316,OC,Guam,APAC,Guam,Guam,Guam,Guam,Guam,Micronesian Region
+GT,GTM,320,NA,Guatemala,LATAM,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Central America
+GG,GGY,831,EU,Guernsey,EMEA,Guernsey,Guernsey,Guernsey,Guernsey,Guernsey,Northern Europe
+GN,GIN,324,AF,Guinea,EMEA,Guinea,Guinea,Guinea,Guinea,Guinea,Western Africa
+GW,GNB,624,AF,Guinea-Bissau,EMEA,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Western Africa
+GY,GUY,328,SA,Guyana,LATAM,Guyana,Guyana,Guyana,Guyana,Guyana,South America
+HT,HTI,332,NA,Haiti,LATAM,Haiti,Haiti,Haiti,Haiti,Haiti,Caribbean
+HM,HMD,334,AN,Heard Island & McDonald Islands,,Heard Island and McDonald Islands,,,Heard Island and McDonald Islands,,
+VA,VAT,336,EU,Vatican City,EMEA,Holy See (the),Vatican City,Vatican City,Vatican City,Vatican City,Southern Europe
+HN,HND,340,NA,Honduras,LATAM,Honduras,Honduras,Honduras,Honduras,Honduras,Central America
+HK,HKG,344,AS,Hong Kong,APAC,Hong Kong,Hong Kong,Hong Kong,Hong Kong,Hong Kong,Eastern Asia
+HU,HUN,348,EU,Hungary,EMEA,Hungary,Hungary,Hungary,Hungary,Hungary,Eastern Europe
+IS,ISL,352,EU,Iceland,EMEA,Iceland,Iceland,Iceland,Iceland,Iceland,Northern Europe
+IN,IND,356,AS,India,APAC,India,India,India,India,India,Southern Asia
+ID,IDN,360,AS,Indonesia,APAC,Indonesia,Indonesia,Indonesia,Indonesia,Indonesia,Southeast Asia
+IR,IRN,364,AS,Iran,,Iran (Islamic Republic of),Iran,,Iran,Iran,Southern Asia
+IQ,IRQ,368,AS,Iraq,EMEA,Iraq,Iraq,Iraq,Iraq,Iraq,Western Asia
+IE,IRL,372,EU,Ireland,EMEA,Ireland,Ireland,Ireland,Ireland,Ireland,Northern Europe
+IM,IMN,833,EU,Isle of Man,,Isle of Man,Isle of Man,,Isle of Man,Isle of Man,Northern Europe
+IL,ISR,376,AS,Israel,EMEA,Israel,Israel,Israel,Israel,Israel,Western Asia
+IT,ITA,380,EU,Italy,EMEA,Italy,Italy,Italy,Italy,Italy,Southern Europe
+JM,JAM,388,NA,Jamaica,LATAM,Jamaica,Jamaica,Jamaica,Jamaica,Jamaica,Caribbean
+JP,JPN,392,AS,Japan,APAC,Japan,Japan,Japan,Japan,Japan,Eastern Asia
+JE,JEY,832,EU,Jersey,EMEA,Jersey,Jersey,Jersey,Jersey,Jersey,Northern Europe
+JO,JOR,400,AS,Jordan,EMEA,Jordan,Jordan,Jordan,Jordan,Jordan,Western Asia
+KZ,KAZ,398,AS,Kazakhstan,EMEA,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Kazakhstan,Central Asia
+KE,KEN,404,AF,Kenya,EMEA,Kenya,Kenya,Kenya,Kenya,Kenya,Eastern Africa
+KI,KIR,296,OC,Kiribati,APAC,Kiribati,Kiribati,Kiribati,Kiribati,Kiribati,Micronesian Region
+KP,PRK,408,AS,North Korea,,Korea (the Democratic People's Republic of),,,Democratic People's Republic of Korea,North Korea,Eastern Asia
+KR,KOR,410,AS,South Korea,EMEA,Korea (the Republic of),South Korea,South Korea,South Korea,South Korea,Eastern Asia
+KW,KWT,414,AS,Kuwait,EMEA,Kuwait,Kuwait,Kuwait,Kuwait,Kuwait,Western Asia
+KG,KGZ,417,AS,Kyrgyzstan,APAC,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Central Asia
+LA,LAO,418,AS,Laos,APAC,Lao People's Democratic Republic (the),Laos,Laos,Laos,Laos,Southeast Asia
+LV,LVA,428,EU,Latvia,EMEA,Latvia,Latvia,Latvia,Latvia,Latvia,Northern Europe
+LB,LBN,422,AS,Lebanon,EMEA,Lebanon,Lebanon,Lebanon,Lebanon,Lebanon,Western Asia
+LS,LSO,426,AF,Lesotho,EMEA,Lesotho,Lesotho,Lesotho,Lesotho,Lesotho,Southern Africa
+LR,LBR,430,AF,Liberia,EMEA,Liberia,Liberia,Liberia,Liberia,Liberia,Western Africa
+LY,LBY,434,AF,Libya,EMEA,Libya,Libya,Libya,Libya,Libya,Northern Africa
+LI,LIE,438,EU,Liechtenstein,EMEA,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Western Europe
+LT,LTU,440,EU,Lithuania,EMEA,Lithuania,Lithuania,Lithuania,Lithuania,Lithuania,Northern Europe
+LU,LUX,442,EU,Luxembourg,EMEA,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Luxembourg,Western Europe
+MO,MAC,446,AS,Macao,,Macao,Macao,,Macau,Macau,Eastern Asia
+MG,MDG,450,AF,Madagascar,EMEA,Madagascar,Madagascar,Madagascar,Madagascar,Madagascar,Eastern Africa
+MW,MWI,454,AF,Malawi,EMEA,Malawi,Malawi,Malawi,Malawi,Malawi,Eastern Africa
+MY,MYS,458,AS,Malaysia,APAC,Malaysia,Malaysia,Malaysia,Malaysia,Malaysia,Southeast Asia
+MV,MDV,462,AS,Maldives,APAC,Maldives,Maldives,Maldives,Maldives,Maldives,Southern Asia
+ML,MLI,466,AF,Mali,EMEA,Mali,Mali,Mali,Mali,Mali,Western Africa
+MT,MLT,470,EU,Malta,EMEA,Malta,Malta,Malta,Malta,Malta,Southern Europe
+MH,MHL,584,OC,Marshall Islands,APAC,Marshall Islands (the),Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,Micronesian Region
+MQ,MTQ,474,NA,Martinique,EMEA,Martinique,Martinique,Martinique,Martinique,Martinique,Caribbean
+MR,MRT,478,AF,Mauritania,EMEA,Mauritania,Mauritania,Mauritania,Mauritania,Mauritania,Western Africa
+MU,MUS,480,AF,Mauritius,EMEA,Mauritius,Mauritius,Mauritius,Mauritius,Mauritius,Eastern Africa
+YT,MYT,175,AF,Mayotte,EMEA,Mayotte,Mayotte,Mayotte,Mayotte,Mayotte,Eastern Africa
+MX,MEX,484,NA,Mexico,LATAM,Mexico,Mexico,Mexico,Mexico,Mexico,Central America
+FM,FSM,583,OC,Micronesia,APAC,Micronesia (Federated States of),Micronesia,Federated States of Micronesia,Federated States of Micronesia,Micronesia,Micronesian Region
+MD,MDA,498,EU,Moldova,EMEA,Moldova (the Republic of),Moldova,Moldova,Moldova,Moldova,Eastern Europe
+MC,MCO,492,EU,Monaco,EMEA,Monaco,Monaco,Monaco,Monaco,Monaco,Western Europe
+MN,MNG,496,AS,Mongolia,APAC,Mongolia,Mongolia,Mongolia,Mongolia,Mongolia,Eastern Asia
+ME,MNE,499,EU,Montenegro,EMEA,Montenegro,Montenegro,Montenegro,Montenegro,Montenegro,Southern Europe
+MS,MSR,500,NA,Montserrat,LATAM,Montserrat,Montserrat,Montserrat,Montserrat,Montserrat,Caribbean
+MA,MAR,504,AF,Morocco,EMEA,Morocco,Morocco,Morocco,Morocco,Morocco,Northern Africa
+MZ,MOZ,508,AF,Mozambique,EMEA,Mozambique,Mozambique,Mozambique,Mozambique,Mozambique,Eastern Africa
+MM,MMR,104,AS,Myanmar (Burma),APAC,Myanmar,Myanmar (Burma),Myanmar (Burma),Myanmar (Burma),Myanmar (Burma),Southeast Asia
+NA,NAM,516,AF,Namibia,EMEA,Namibia,Namibia,Namibia,Namibia,Namibia,Southern Africa
+NR,NRU,520,OC,Nauru,APAC,Nauru,Nauru,Nauru,Nauru,Nauru,Micronesian Region
+NP,NPL,524,AS,Nepal,APAC,Nepal,Nepal,Nepal,Nepal,Nepal,Southern Asia
+NL,NLD,528,EU,Netherlands,EMEA,Netherlands (the),Netherlands,Netherlands,Netherlands,Netherlands,Western Europe
+NC,NCL,540,OC,New Caledonia,APAC,New Caledonia,New Caledonia,New Caledonia,New Caledonia,New Caledonia,Melanesia
+NZ,NZL,554,OC,New Zealand,APAC,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand,Australasia
+NI,NIC,558,NA,Nicaragua,LATAM,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Nicaragua,Central America
+NE,NER,562,AF,Niger,EMEA,Niger (the),Niger,Niger,Niger,Niger,Western Africa
+NG,NGA,566,AF,Nigeria,EMEA,Nigeria,Nigeria,Nigeria,Nigeria,Nigeria,Western Africa
+NU,NIU,570,OC,Niue,APAC,Niue,Niue,Niue,Niue,Niue,Polynesia
+NF,NFK,574,OC,Norfolk Island,APAC,Norfolk Island,Norfolk Island,Norfolk Island,Norfolk Island,Norfolk Island,Australasia
+MP,MNP,580,OC,Northern Mariana Islands,APAC,Northern Mariana Islands (the),Northern Mariana Islands,Northern Mariana Islands,Northern Mariana Islands,Northern Mariana Islands,Micronesian Region
+NO,NOR,578,EU,Norway,EMEA,Norway,Norway,Norway,Norway,Norway,Northern Europe
+OM,OMN,512,AS,Oman,EMEA,Oman,Oman,Oman,Oman,Oman,Western Asia
+PK,PAK,586,AS,Pakistan,APAC,Pakistan,Pakistan,Pakistan,Pakistan,Pakistan,Southern Asia
+PW,PLW,585,OC,Palau,APAC,Palau,Palau,Palau,Palau,Palau,Micronesian Region
+PS,PSE,275,AS,Palestine,EMEA,"Palestine, State of",Palestine,Palestine,Palestine,Palestine,Western Asia
+PA,PAN,591,NA,Panama,LATAM,Panama,Panama,Panama,Panama,Panama,Central America
+PG,PNG,598,OC,Papua New Guinea,APAC,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Papua New Guinea,Melanesia
+PY,PRY,600,SA,Paraguay,LATAM,Paraguay,Paraguay,Paraguay,Paraguay,Paraguay,South America
+PE,PER,604,SA,Peru,LATAM,Peru,Peru,Peru,Peru,Peru,South America
+PH,PHL,608,AS,Philippines,APAC,Philippines (the),Philippines,Philippines,Philippines,Philippines,Southeast Asia
+PN,PCN,612,OC,Pitcairn,,Pitcairn,,,,,
+PL,POL,616,EU,Poland,EMEA,Poland,Poland,Poland,Poland,Poland,Eastern Europe
+PT,PRT,620,EU,Portugal,EMEA,Portugal,Portugal,Portugal,Portugal,Portugal,Southern Europe
+PR,PRI,630,NA,Puerto Rico,LATAM,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,Caribbean
+QA,QAT,634,AS,Qatar,EMEA,Qatar,Qatar,Qatar,Qatar,Qatar,Western Asia
+MK,MKD,807,EU,North Macedonia,,Republic of North Macedonia,North Macedonia,,Macedonia (FYROM),Macedonia,Southern Europe
+RO,ROU,642,EU,Romania,EMEA,Romania,Romania,Romania,Romania,Romania,Eastern Europe
+RU,RUS,643,AS,Russia,EMEA,Russian Federation (the),Russia,Russia,Russia,Russia,Eastern Europe
+RW,RWA,646,AF,Rwanda,EMEA,Rwanda,Rwanda,Rwanda,Rwanda,Rwanda,Eastern Africa
+RE,REU,638,AF,Réunion,EMEA,Réunion,Réunion,Reunion,Reunion,Réunion,Eastern Africa
+BL,BLM,652,NA,St. Barthélemy,,Saint Barthélemy,St. Barthélemy,,Saint Barthélemy,Saint Barthélemy,Caribbean
+SH,SHN,654,AF,St. Helena,,"Saint Helena, Ascension and Tristan da Cunha",St. Helena,,Saint Helena Ascension and Tristan da Cunha,Saint Helena,Western Africa
+KN,KNA,659,NA,St. Kitts & Nevis,LATAM,Saint Kitts and Nevis,St. Kitts & Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Caribbean
+LC,LCA,662,NA,St. Lucia,LATAM,Saint Lucia,St. Lucia,Saint Lucia,Saint Lucia,Saint Lucia,Caribbean
+MF,MAF,663,NA,St. Martin,,Saint Martin (French part),St. Martin,Saint Martin,Saint Martin,Saint Martin,Caribbean
+PM,SPM,666,NA,St. Pierre & Miquelon,EMEA,Saint Pierre and Miquelon,St. Pierre & Miquelon,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Northern America
+VC,VCT,670,NA,St. Vincent & Grenadines,LATAM,Saint Vincent and the Grenadines,St. Vincent & Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,St. Vincent & Grenadines,Caribbean
+WS,WSM,882,OC,Samoa,APAC,Samoa,Samoa,Samoa,Samoa,Samoa,Polynesia
+SM,SMR,674,EU,San Marino,EMEA,San Marino,San Marino,San Marino,San Marino,San Marino,Southern Europe
+ST,STP,678,AF,São Tomé & Príncipe,EMEA,Sao Tome and Principe,São Tomé & Príncipe,Sao Tome and Principe,Sao Tome and Principe,São Tomé and Príncipe,Middle Africa
+SA,SAU,682,AS,Saudi Arabia,EMEA,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Saudi Arabia,Western Asia
+SN,SEN,686,AF,Senegal,EMEA,Senegal,Senegal,Senegal,Senegal,Senegal,Western Africa
+RS,SRB,688,EU,Serbia,EMEA,Serbia,Serbia,Serbia,Serbia,Serbia,Southern Europe
+SC,SYC,690,AF,Seychelles,EMEA,Seychelles,Seychelles,Seychelles,Seychelles,Seychelles,Eastern Africa
+SL,SLE,694,AF,Sierra Leone,EMEA,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Western Africa
+SG,SGP,702,AS,Singapore,APAC,Singapore,Singapore,Singapore,Singapore,Singapore,Southeast Asia
+SX,SXM,534,NA,Sint Maarten,EMEA,Sint Maarten (Dutch part),Sint Maarten,Sint Maarten,Sint Maarten,Sint Maarten,Caribbean
+SK,SVK,703,EU,Slovakia,EMEA,Slovakia,Slovakia,Slovakia,Slovakia,Slovakia,Eastern Europe
+SI,SVN,705,EU,Slovenia,EMEA,Slovenia,Slovenia,Slovenia,Slovenia,Slovenia,Southern Europe
+SB,SLB,90,OC,Solomon Islands,APAC,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands,Melanesia
+SO,SOM,706,AF,Somalia,EMEA,Somalia,Somalia,Somalia,Somalia,Somalia,Eastern Africa
+ZA,ZAF,710,AF,South Africa,EMEA,South Africa,South Africa,South Africa,South Africa,South Africa,Southern Africa
+GS,SGS,239,AN,South Georgia and the South Sandwich Islands,EMEA,South Georgia and the South Sandwich Islands,,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,,
+SS,SSD,728,AF,South Sudan,,South Sudan,South Sudan,,South Sudan,South Sudan,Eastern Africa
+ES,ESP,724,EU,Spain,EMEA,Spain,Spain,Spain,Spain,Spain,Southern Europe
+LK,LKA,144,AS,Sri Lanka,APAC,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Southern Asia
+SD,SDN,729,AF,Sudan,EMEA,Sudan (the),Sudan,Sudan,Sudan,Sudan,Northern Africa
+SR,SUR,740,SA,Suriname,LATAM,Suriname,Suriname,Suriname,Suriname,Suriname,South America
+SJ,SJM,744,EU,Svalbard & Jan Mayen,EMEA,Svalbard and Jan Mayen,Svalbard & Jan Mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Northern Europe
+SE,SWE,752,EU,Sweden,EMEA,Sweden,Sweden,Sweden,Sweden,Sweden,Northern Europe
+CH,CHE,756,EU,Switzerland,EMEA,Switzerland,Switzerland,Switzerland,Switzerland,Switzerland,Western Europe
+SY,SYR,760,AS,Syria,,Syrian Arab Republic,Syria,,Syria,Syria,Western Asia
+TW,TWN,158,AS,Taiwan,APAC,Taiwan (Province of China),Taiwan,Taiwan,Taiwan,Taiwan,Eastern Asia
+TJ,TJK,762,AS,Tajikistan,APAC,Tajikistan,Tajikistan,Tajikistan,Tajikistan,Tajikistan,Central Asia
+TZ,TZA,834,AF,Tanzania,EMEA,"Tanzania, United Republic of",Tanzania,Tanzania,Tanzania,Tanzania,Eastern Africa
+TH,THA,764,AS,Thailand,APAC,Thailand,Thailand,Thailand,Thailand,Thailand,Southeast Asia
+TL,TLS,626,AS,Timor-Leste,APAC,Timor-Leste,Timor-Leste,Timor-Leste,Timor-Leste,East Timor,Southeast Asia
+TG,TGO,768,AF,Togo,EMEA,Togo,Togo,Togo,Togo,Togo,Western Africa
+TK,TKL,772,OC,Tokelau,APAC,Tokelau,,Tokelau,Tokelau,Tokelau,
+TO,TON,776,OC,Tonga,APAC,Tonga,Tonga,Tonga,Tonga,Tonga,Polynesia
+TT,TTO,780,NA,Trinidad & Tobago,LATAM,Trinidad and Tobago,Trinidad & Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Caribbean
+TN,TUN,788,AF,Tunisia,EMEA,Tunisia,Tunisia,Tunisia,Tunisia,Tunisia,Northern Africa
+TR,TUR,792,AS,Turkey,EMEA,Turkey,Turkey,Turkey,Turkey,Turkey,Western Asia
+TM,TKM,795,AS,Turkmenistan,APAC,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Central Asia
+TC,TCA,796,NA,Turks & Caicos Islands,LATAM,Turks and Caicos Islands (the),Turks & Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,Caribbean
+TV,TUV,798,OC,Tuvalu,APAC,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Polynesia
+UG,UGA,800,AF,Uganda,EMEA,Uganda,Uganda,Uganda,Uganda,Uganda,Eastern Africa
+UA,UKR,804,EU,Ukraine,EMEA,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine,Eastern Europe
+AE,ARE,784,AS,United Arab Emirates,EMEA,United Arab Emirates (the),United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,Western Asia
+GB,GBR,826,EU,United Kingdom,EMEA,United Kingdom of Great Britain and Northern Ireland (the),United Kingdom,United Kingdom,United Kingdom,United Kingdom,Northern Europe
+UM,UMI,581,NA,United States Minor Outlying Islands,APAC,United States Minor Outlying Islands (the),,United States Minor Outlying Islands,United States Minor Outlying Islands,,
+US,USA,840,NA,United States,NA,United States of America (the),United States,United States,United States,United States,Northern America
+UY,URY,858,SA,Uruguay,LATAM,Uruguay,Uruguay,Uruguay,Uruguay,Uruguay,South America
+UZ,UZB,860,AS,Uzbekistan,APAC,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,Uzbekistan,Central Asia
+VU,VUT,548,OC,Vanuatu,APAC,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Melanesia
+VE,VEN,862,SA,Venezuela,LATAM,Venezuela (Bolivarian Republic of),Venezuela,Venezuela,Venezuela,Venezuela,South America
+VN,VNM,704,AS,Vietnam,APAC,Viet Nam,Vietnam,Vietnam,Vietnam,Vietnam,Southeast Asia
+VG,VGB,92,NA,British Virgin Islands,LATAM,Virgin Islands (British),British Virgin Islands,British Virgin Islands,British Virgin Islands,British Virgin Islands,Caribbean
+VI,VIR,850,NA,U.S. Virgin Islands,LATAM,Virgin Islands (U.S.),U.S. Virgin Islands,U.S. Virgin Islands,U.S. Virgin Islands,U.S. Virgin Islands,Caribbean
+WF,WLF,876,OC,Wallis & Futuna,APAC,Wallis and Futuna,Wallis & Futuna,Wallis and Futuna,Wallis and Futuna,Wallis and Futuna,Polynesia
+EH,ESH,732,AF,Western Sahara,EMEA,Western Sahara,Western Sahara,Western Sahara,Western Sahara,,Northern Africa
+YE,YEM,887,AS,Yemen,EMEA,Yemen,Yemen,Yemen,Yemen,Yemen,Western Asia
+ZM,ZMB,894,AF,Zambia,EMEA,Zambia,Zambia,Zambia,Zambia,Zambia,Eastern Africa
+ZW,ZWE,716,AF,Zimbabwe,EMEA,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,Eastern Africa
+AX,ALA,248,EU,Åland Islands,,Åland Islands,Åland Islands,,Åland Islands,Åland Islands,Northern Europe
+XK,XXK,383,EU,Kosovo,EMEA,,Kosovo,Kosovo,Kosovo,Kosovo,Southern Europe

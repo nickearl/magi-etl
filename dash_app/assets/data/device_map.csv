@@ -1,0 +1,11 @@
+﻿old_device,new_device
+desktop,desktop
+mobile,mobile
+tablet,tablet
+smart tv,other
+game console,other
+smartphone,mobile
+connected tv,other
+feature phone,mobile
+set top box,other
+computer,desktop

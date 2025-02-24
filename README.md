@@ -1,0 +1,2 @@
+# magi
+BI Orchestration Application
